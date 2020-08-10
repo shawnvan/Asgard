@@ -19,3 +19,6 @@ Asgard
 conf
 output
 runtime
+.gitignore
+.gitattributes
+.idea
